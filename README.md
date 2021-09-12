@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jadatu13 also known as Jada
-- 👀 I’m interested in software development & making mobile applications.
+- 👀 I’m interested in software development & developing mobile applications.
 - 🌱 I’m currently learning java, but have previous limited knowledge of C#, C, Python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
